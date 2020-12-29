@@ -1,1 +1,1 @@
-# cabbo-app
+# React web application - cabbo-app
